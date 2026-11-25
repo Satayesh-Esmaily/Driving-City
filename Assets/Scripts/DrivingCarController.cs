@@ -5,7 +5,6 @@ using UnityEngine.InputSystem;
 
 // Week 5 - Driving City: player car movement.
 // W / Up = forward, S / Down = reverse, A / Left = turn left, D / Right = turn right.
-// Sprites face UP. The car stays inside the playable area (min/max bounds).
 public class DrivingCarController : MonoBehaviour
 {
     [Header("Movement")]
