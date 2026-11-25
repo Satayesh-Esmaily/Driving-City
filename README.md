@@ -112,6 +112,3 @@ Assets
 Uses `Time.deltaTime` for frame-rate independent movement.
 
 ---
----
-
-lection and delivery logic are not part of this assignment yet.
