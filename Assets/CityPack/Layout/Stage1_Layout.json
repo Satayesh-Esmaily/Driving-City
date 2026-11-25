@@ -1,0 +1,3040 @@
+{
+ "cols": 18,
+ "rows": 12,
+ "tile": 4,
+ "items": [
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 18.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 38.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 58.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 46.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 38.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 30.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 26.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 18.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 58.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 18.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 18.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 58.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 14.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 18.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "plaza",
+   "sprite": "Ground/plaza_tiles",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 58.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 10.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 18.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 58.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 2.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 6.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 10.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 14.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 18.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 22.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 26.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 30.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 34.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 42.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 46.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 50.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 54.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 58.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_01",
+   "group": "Ground",
+   "x": 62.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_02",
+   "group": "Ground",
+   "x": 66.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "grass",
+   "sprite": "Ground/grass_03",
+   "group": "Ground",
+   "x": 70.0,
+   "y": 2.0,
+   "rot": 0,
+   "order": 0
+  },
+  {
+   "name": "corner",
+   "sprite": "Roads/Streets/street_corner",
+   "group": "Roads",
+   "x": 18.0,
+   "y": 42.0,
+   "rot": -90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 22.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 26.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 30.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 34.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "t_junction",
+   "sprite": "Roads/Streets/street_t_junction",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 42.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 46.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 50.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 54.0,
+   "y": 42.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "corner",
+   "sprite": "Roads/Streets/street_corner",
+   "group": "Roads",
+   "x": 58.0,
+   "y": 42.0,
+   "rot": -180,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 18.0,
+   "y": 38.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 38.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 58.0,
+   "y": 38.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 18.0,
+   "y": 34.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 34.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 58.0,
+   "y": 34.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 18.0,
+   "y": 30.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight_crosswalk",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 30.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 58.0,
+   "y": 30.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 18.0,
+   "y": 26.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 26.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 58.0,
+   "y": 26.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 2.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 6.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 10.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 14.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "t_junction",
+   "sprite": "Roads/Streets/street_t_junction",
+   "group": "Roads",
+   "x": 18.0,
+   "y": 22.0,
+   "rot": -180,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 22.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight_crosswalk",
+   "group": "Roads",
+   "x": 26.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 30.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 34.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "crossroad",
+   "sprite": "Roads/Streets/street_crossroad",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 42.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 46.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight_crosswalk",
+   "group": "Roads",
+   "x": 50.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 54.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "t_junction",
+   "sprite": "Roads/Streets/street_t_junction",
+   "group": "Roads",
+   "x": 58.0,
+   "y": 22.0,
+   "rot": -180,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 62.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 66.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 70.0,
+   "y": 22.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 18.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 14.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "straight",
+   "sprite": "Roads/Streets/street_straight",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 10.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "highway_transition",
+   "sprite": "Roads/Highways/highway_to_street_transition",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 6.0,
+   "rot": 0,
+   "order": 1
+  },
+  {
+   "name": "highway",
+   "sprite": "Roads/Highways/highway_straight",
+   "group": "Roads",
+   "x": 38.0,
+   "y": 2.0,
+   "rot": 90,
+   "order": 1
+  },
+  {
+   "name": "street_lamp_00",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 36.38,
+   "y": 20.38,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_01",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 36.38,
+   "y": 23.62,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_02",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 39.62,
+   "y": 20.38,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_03",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 39.62,
+   "y": 23.62,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_04",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 10.0,
+   "y": 23.62,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_05",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 26.0,
+   "y": 23.62,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_06",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 46.0,
+   "y": 23.62,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_07",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 66.0,
+   "y": 23.62,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_08",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 39.62,
+   "y": 34.0,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_09",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 26.0,
+   "y": 43.62,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "street_lamp_10",
+   "sprite": "Props/street_lamp",
+   "group": "Props",
+   "x": 50.0,
+   "y": 43.62,
+   "rot": 0,
+   "order": 14
+  },
+  {
+   "name": "house_modern_villa",
+   "sprite": "Buildings/Residential/house_modern_villa",
+   "group": "Buildings",
+   "x": 24.0,
+   "y": 36.0,
+   "rot": 0,
+   "order": 10
+  },
+  {
+   "name": "house_classic_red_roof",
+   "sprite": "Buildings/Residential/house_classic_red_roof",
+   "group": "Buildings",
+   "x": 32.0,
+   "y": 36.0,
+   "rot": 0,
+   "order": 10
+  },
+  {
+   "name": "restaurant_patio",
+   "sprite": "Buildings/Food/restaurant_patio",
+   "group": "Buildings",
+   "x": 26.0,
+   "y": 28.0,
+   "rot": 0,
+   "order": 10
+  },
+  {
+   "name": "hospital_helipad",
+   "sprite": "Buildings/Medical/hospital_helipad",
+   "group": "Buildings",
+   "x": 48.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 10
+  },
+  {
+   "name": "apartment_tower",
+   "sprite": "Buildings/Residential/apartment_tower",
+   "group": "Buildings",
+   "x": 4.0,
+   "y": 34.0,
+   "rot": 0,
+   "order": 10
+  },
+  {
+   "name": "office_glass_tower",
+   "sprite": "Buildings/Office/office_glass_tower",
+   "group": "Buildings",
+   "x": 12.0,
+   "y": 36.0,
+   "rot": 0,
+   "order": 10
+  },
+  {
+   "name": "shopping_center",
+   "sprite": "Buildings/Commerce/shopping_center",
+   "group": "Buildings",
+   "x": 66.0,
+   "y": 36.0,
+   "rot": 0,
+   "order": 10
+  },
+  {
+   "name": "gas_station",
+   "sprite": "Buildings/Services/gas_station",
+   "group": "Buildings",
+   "x": 66.0,
+   "y": 28.0,
+   "rot": 0,
+   "order": 10
+  },
+  {
+   "name": "city_gate",
+   "sprite": "Entrance/city_gate",
+   "group": "Entrance",
+   "x": 38.0,
+   "y": 7.8,
+   "rot": 0,
+   "order": 40
+  },
+  {
+   "name": "fountain",
+   "sprite": "Props/fountain",
+   "group": "Props",
+   "x": 30,
+   "y": 14,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "bench_a",
+   "sprite": "Props/bench",
+   "group": "Props",
+   "x": 25.2,
+   "y": 19.7,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "bench_b",
+   "sprite": "Props/bench",
+   "group": "Props",
+   "x": 34.8,
+   "y": 19.7,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "bus_stop",
+   "sprite": "Props/bus_stop",
+   "group": "Props",
+   "x": 46,
+   "y": 18.8,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "bench_c",
+   "sprite": "Props/bench",
+   "group": "Props",
+   "x": 44.5,
+   "y": 10,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "bench_d",
+   "sprite": "Props/bench",
+   "group": "Props",
+   "x": 50.5,
+   "y": 10,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "planter_0",
+   "sprite": "Props/planter",
+   "group": "Props",
+   "x": 24.9,
+   "y": 9.0,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "planter_1",
+   "sprite": "Props/planter",
+   "group": "Props",
+   "x": 35.1,
+   "y": 9.0,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "planter_2",
+   "sprite": "Props/planter",
+   "group": "Props",
+   "x": 40.9,
+   "y": 20.5,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "planter_3",
+   "sprite": "Props/planter",
+   "group": "Props",
+   "x": 51.1,
+   "y": 20.5,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "planter_4",
+   "sprite": "Props/planter",
+   "group": "Props",
+   "x": 24.9,
+   "y": 20.5,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "planter_5",
+   "sprite": "Props/planter",
+   "group": "Props",
+   "x": 35.1,
+   "y": 19.6,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "bin_0",
+   "sprite": "Props/trash_bin",
+   "group": "Props",
+   "x": 22.4,
+   "y": 24.5,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "bin_1",
+   "sprite": "Props/trash_bin",
+   "group": "Props",
+   "x": 41.5,
+   "y": 24.5,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "bin_2",
+   "sprite": "Props/trash_bin",
+   "group": "Props",
+   "x": 52.5,
+   "y": 24.5,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "bin_3",
+   "sprite": "Props/trash_bin",
+   "group": "Props",
+   "x": 36.6,
+   "y": 24.8,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "park_bench_a",
+   "sprite": "Props/bench",
+   "group": "Props",
+   "x": 12,
+   "y": 25.5,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "park_bench_b",
+   "sprite": "Props/bench",
+   "group": "Props",
+   "x": 12,
+   "y": 30.5,
+   "rot": 0,
+   "order": 12
+  },
+  {
+   "name": "park_flowers_a",
+   "sprite": "Nature/Plants/flowerbed_red_pink",
+   "group": "Nature",
+   "x": 9.2,
+   "y": 27.8,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "park_flowers_b",
+   "sprite": "Nature/Plants/flowerbed_yellow_purple",
+   "group": "Nature",
+   "x": 14.8,
+   "y": 27.8,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "tree_autumn",
+   "sprite": "Nature/Trees/tree_autumn",
+   "group": "Nature",
+   "x": 2.33,
+   "y": 46.366,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 9.687,
+   "y": 46.786,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_green",
+   "sprite": "Nature/Trees/tree_oak_green",
+   "group": "Nature",
+   "x": 15.01,
+   "y": 45.73,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_green",
+   "sprite": "Nature/Trees/tree_oak_green",
+   "group": "Nature",
+   "x": 20.742,
+   "y": 46.22,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_lime",
+   "sprite": "Nature/Trees/tree_oak_lime",
+   "group": "Nature",
+   "x": 27.588,
+   "y": 45.725,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 32.874,
+   "y": 46.794,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 38.068,
+   "y": 45.861,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_green",
+   "sprite": "Nature/Trees/tree_oak_green",
+   "group": "Nature",
+   "x": 45.298,
+   "y": 46.713,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_green",
+   "sprite": "Nature/Trees/tree_oak_green",
+   "group": "Nature",
+   "x": 51.482,
+   "y": 45.524,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 56.322,
+   "y": 46.42,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 62.302,
+   "y": 46.331,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_pine",
+   "sprite": "Nature/Trees/tree_pine",
+   "group": "Nature",
+   "x": 68.149,
+   "y": 45.676,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_green",
+   "sprite": "Nature/Trees/tree_oak_green",
+   "group": "Nature",
+   "x": 8,
+   "y": 29,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_pine",
+   "sprite": "Nature/Trees/tree_pine",
+   "group": "Nature",
+   "x": 16,
+   "y": 29.8,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_lime",
+   "sprite": "Nature/Trees/tree_oak_lime",
+   "group": "Nature",
+   "x": 9,
+   "y": 24.8,
+   "rot": 180,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_lime",
+   "sprite": "Nature/Trees/tree_oak_lime",
+   "group": "Nature",
+   "x": 15.5,
+   "y": 25,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_autumn",
+   "sprite": "Nature/Trees/tree_autumn",
+   "group": "Nature",
+   "x": 60,
+   "y": 12,
+   "rot": 180,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 64,
+   "y": 18,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_autumn",
+   "sprite": "Nature/Trees/tree_autumn",
+   "group": "Nature",
+   "x": 68,
+   "y": 8,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_green",
+   "sprite": "Nature/Trees/tree_oak_green",
+   "group": "Nature",
+   "x": 9.505,
+   "y": 1.483,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 16.798,
+   "y": 18.871,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_pine",
+   "sprite": "Nature/Trees/tree_pine",
+   "group": "Nature",
+   "x": 11.814,
+   "y": 10.908,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_lime",
+   "sprite": "Nature/Trees/tree_oak_lime",
+   "group": "Nature",
+   "x": 22.56,
+   "y": 3.029,
+   "rot": 180,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_lime",
+   "sprite": "Nature/Trees/tree_oak_lime",
+   "group": "Nature",
+   "x": 1.807,
+   "y": 10.354,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_autumn",
+   "sprite": "Nature/Trees/tree_autumn",
+   "group": "Nature",
+   "x": 7.336,
+   "y": 16.36,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 20.392,
+   "y": 11.824,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 3.067,
+   "y": 1.456,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_autumn",
+   "sprite": "Nature/Trees/tree_autumn",
+   "group": "Nature",
+   "x": 58.064,
+   "y": 6.472,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_pine",
+   "sprite": "Nature/Trees/tree_pine",
+   "group": "Nature",
+   "x": 59.801,
+   "y": 13.78,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_green",
+   "sprite": "Nature/Trees/tree_oak_green",
+   "group": "Nature",
+   "x": 66.42,
+   "y": 2.02,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_pine",
+   "sprite": "Nature/Trees/tree_pine",
+   "group": "Nature",
+   "x": 65.59,
+   "y": 10.464,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_oak_green",
+   "sprite": "Nature/Trees/tree_oak_green",
+   "group": "Nature",
+   "x": 64.373,
+   "y": 18.336,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_pine",
+   "sprite": "Nature/Trees/tree_pine",
+   "group": "Nature",
+   "x": 50.167,
+   "y": 3.316,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 44.026,
+   "y": 6.661,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_blossom",
+   "sprite": "Nature/Trees/tree_blossom",
+   "group": "Nature",
+   "x": 30.266,
+   "y": 4.213,
+   "rot": 270,
+   "order": 30
+  },
+  {
+   "name": "tree_palm",
+   "sprite": "Nature/Trees/tree_palm",
+   "group": "Nature",
+   "x": 25.2,
+   "y": 19.2,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_palm",
+   "sprite": "Nature/Trees/tree_palm",
+   "group": "Nature",
+   "x": 25.2,
+   "y": 9.2,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_palm",
+   "sprite": "Nature/Trees/tree_palm",
+   "group": "Nature",
+   "x": 34.8,
+   "y": 9.2,
+   "rot": 0,
+   "order": 30
+  },
+  {
+   "name": "tree_palm",
+   "sprite": "Nature/Trees/tree_palm",
+   "group": "Nature",
+   "x": 41.4,
+   "y": 9.2,
+   "rot": 90,
+   "order": 30
+  },
+  {
+   "name": "tree_palm",
+   "sprite": "Nature/Trees/tree_palm",
+   "group": "Nature",
+   "x": 50.8,
+   "y": 19.0,
+   "rot": 180,
+   "order": 30
+  },
+  {
+   "name": "tree_palm",
+   "sprite": "Nature/Trees/tree_palm",
+   "group": "Nature",
+   "x": 50.8,
+   "y": 9.2,
+   "rot": 180,
+   "order": 30
+  },
+  {
+   "name": "bush_0",
+   "sprite": "Nature/Plants/bush_green",
+   "group": "Nature",
+   "x": 20,
+   "y": 22.2,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "bush_1",
+   "sprite": "Nature/Plants/bush_green",
+   "group": "Nature",
+   "x": 3.5,
+   "y": 22.5,
+   "rot": 90,
+   "order": 8
+  },
+  {
+   "name": "bush_2",
+   "sprite": "Nature/Plants/bush_dark",
+   "group": "Nature",
+   "x": 47,
+   "y": 22.8,
+   "rot": 90,
+   "order": 8
+  },
+  {
+   "name": "bush_3",
+   "sprite": "Nature/Plants/bush_green",
+   "group": "Nature",
+   "x": 66,
+   "y": 22.5,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "bush_4",
+   "sprite": "Nature/Plants/bush_dark",
+   "group": "Nature",
+   "x": 28,
+   "y": 4,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "bush_5",
+   "sprite": "Nature/Plants/bush_dark",
+   "group": "Nature",
+   "x": 44,
+   "y": 4.2,
+   "rot": 90,
+   "order": 8
+  },
+  {
+   "name": "bush_6",
+   "sprite": "Nature/Plants/bush_green",
+   "group": "Nature",
+   "x": 6,
+   "y": 12,
+   "rot": 90,
+   "order": 8
+  },
+  {
+   "name": "bush_7",
+   "sprite": "Nature/Plants/bush_dark",
+   "group": "Nature",
+   "x": 58,
+   "y": 14,
+   "rot": 90,
+   "order": 8
+  },
+  {
+   "name": "bush_8",
+   "sprite": "Nature/Plants/bush_green",
+   "group": "Nature",
+   "x": 4,
+   "y": 3,
+   "rot": 90,
+   "order": 8
+  },
+  {
+   "name": "bush_9",
+   "sprite": "Nature/Plants/bush_green",
+   "group": "Nature",
+   "x": 67,
+   "y": 3,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "flowerbed_0",
+   "sprite": "Nature/Plants/flowerbed_yellow_purple",
+   "group": "Nature",
+   "x": 10,
+   "y": 16,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "flowerbed_1",
+   "sprite": "Nature/Plants/flowerbed_yellow_purple",
+   "group": "Nature",
+   "x": 62,
+   "y": 7,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "flowerbed_2",
+   "sprite": "Nature/Plants/flowerbed_yellow_purple",
+   "group": "Nature",
+   "x": 14,
+   "y": 6,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "flowerbed_3",
+   "sprite": "Nature/Plants/flowerbed_red_pink",
+   "group": "Nature",
+   "x": 46,
+   "y": 14.5,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "rock_0",
+   "sprite": "Nature/Rocks/rock_gray_a",
+   "group": "Nature",
+   "x": 18,
+   "y": 9,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "rock_1",
+   "sprite": "Nature/Rocks/rock_gray_b",
+   "group": "Nature",
+   "x": 55,
+   "y": 5,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "rock_2",
+   "sprite": "Nature/Rocks/rock_gray_b",
+   "group": "Nature",
+   "x": 2,
+   "y": 16,
+   "rot": 0,
+   "order": 8
+  },
+  {
+   "name": "rock_3",
+   "sprite": "Nature/Rocks/rock_gray_a",
+   "group": "Nature",
+   "x": 70,
+   "y": 15,
+   "rot": 180,
+   "order": 8
+  },
+  {
+   "name": "taxi_yellow",
+   "sprite": "Vehicles/Public/taxi_yellow",
+   "group": "Vehicles",
+   "x": 48,
+   "y": 22.625,
+   "rot": 90,
+   "order": 20
+  },
+  {
+   "name": "car_white_suv",
+   "sprite": "Vehicles/Cars/car_white_suv",
+   "group": "Vehicles",
+   "x": 62,
+   "y": 21.375,
+   "rot": -90,
+   "order": 20
+  },
+  {
+   "name": "bus_city",
+   "sprite": "Vehicles/Public/bus_city",
+   "group": "Vehicles",
+   "x": 38.625,
+   "y": 33,
+   "rot": 0,
+   "order": 20
+  },
+  {
+   "name": "police_car",
+   "sprite": "Vehicles/Emergency/police_car",
+   "group": "Vehicles",
+   "x": 17.375,
+   "y": 34,
+   "rot": 180,
+   "order": 20
+  },
+  {
+   "name": "car_blue_sedan",
+   "sprite": "Vehicles/Cars/car_blue_sedan",
+   "group": "Vehicles",
+   "x": 24,
+   "y": 42.625,
+   "rot": 90,
+   "order": 20
+  },
+  {
+   "name": "delivery_van",
+   "sprite": "Vehicles/Cars/delivery_van",
+   "group": "Vehicles",
+   "x": 58.625,
+   "y": 31,
+   "rot": 0,
+   "order": 20
+  },
+  {
+   "name": "ambulance",
+   "sprite": "Vehicles/Emergency/ambulance",
+   "group": "Vehicles",
+   "x": 46.5,
+   "y": 26.2,
+   "rot": 90,
+   "order": 20
+  },
+  {
+   "name": "car_black_luxury",
+   "sprite": "Vehicles/Cars/car_black_luxury",
+   "group": "Vehicles",
+   "x": 38.625,
+   "y": 2.2,
+   "rot": 0,
+   "order": 20
+  },
+  {
+   "name": "car_green_compact",
+   "sprite": "Vehicles/Cars/car_green_compact",
+   "group": "Vehicles",
+   "x": 8.5,
+   "y": 22.625,
+   "rot": 90,
+   "order": 20
+  },
+  {
+   "name": "person_01_red_0",
+   "sprite": "Characters/People/person_01_red",
+   "group": "People",
+   "x": 14,
+   "y": 23.62,
+   "rot": 270,
+   "order": 22
+  },
+  {
+   "name": "person_02_blue_1",
+   "sprite": "Characters/People/person_02_blue",
+   "group": "People",
+   "x": 29,
+   "y": 20.38,
+   "rot": 180,
+   "order": 22
+  },
+  {
+   "name": "person_03_green_2",
+   "sprite": "Characters/People/person_03_green",
+   "group": "People",
+   "x": 43,
+   "y": 23.62,
+   "rot": 90,
+   "order": 22
+  },
+  {
+   "name": "person_04_yellow_3",
+   "sprite": "Characters/People/person_04_yellow",
+   "group": "People",
+   "x": 57,
+   "y": 20.38,
+   "rot": 180,
+   "order": 22
+  },
+  {
+   "name": "person_05_purple_4",
+   "sprite": "Characters/People/person_05_purple",
+   "group": "People",
+   "x": 66,
+   "y": 23.62,
+   "rot": 270,
+   "order": 22
+  },
+  {
+   "name": "person_06_white_5",
+   "sprite": "Characters/People/person_06_white",
+   "group": "People",
+   "x": 26.5,
+   "y": 17.5,
+   "rot": 135,
+   "order": 22
+  },
+  {
+   "name": "person_07_orange_6",
+   "sprite": "Characters/People/person_07_orange",
+   "group": "People",
+   "x": 33.5,
+   "y": 11,
+   "rot": 45,
+   "order": 22
+  },
+  {
+   "name": "person_08_teal_7",
+   "sprite": "Characters/People/person_08_teal",
+   "group": "People",
+   "x": 27,
+   "y": 10.5,
+   "rot": 135,
+   "order": 22
+  },
+  {
+   "name": "person_01_red_8",
+   "sprite": "Characters/People/person_01_red",
+   "group": "People",
+   "x": 49,
+   "y": 12.5,
+   "rot": 45,
+   "order": 22
+  },
+  {
+   "name": "person_04_yellow_9",
+   "sprite": "Characters/People/person_04_yellow",
+   "group": "People",
+   "x": 43.5,
+   "y": 12.8,
+   "rot": 270,
+   "order": 22
+  },
+  {
+   "name": "person_03_green_10",
+   "sprite": "Characters/People/person_03_green",
+   "group": "People",
+   "x": 36.4,
+   "y": 30,
+   "rot": 225,
+   "order": 22
+  },
+  {
+   "name": "person_02_blue_11",
+   "sprite": "Characters/People/person_02_blue",
+   "group": "People",
+   "x": 39.6,
+   "y": 38,
+   "rot": 180,
+   "order": 22
+  },
+  {
+   "name": "person_06_white_12",
+   "sprite": "Characters/People/person_06_white",
+   "group": "People",
+   "x": 10.5,
+   "y": 28,
+   "rot": 270,
+   "order": 22
+  }
+ ]
+}
