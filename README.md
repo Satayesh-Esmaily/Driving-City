@@ -17,6 +17,8 @@ Drive a car around the streets and explore the city.
 2- Scene
 
 <img width="1681" height="904" alt="image" src="https://github.com/user-attachments/assets/7bd94e02-74e6-48a5-9f88-16f346564d26" />
+<img width="1690" height="930" alt="image" src="https://github.com/user-attachments/assets/51a10ef5-7fff-4e81-a6c3-7cb39b3ee53d" />
+
 
 
 ---
